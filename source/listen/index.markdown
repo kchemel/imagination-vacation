@@ -1,32 +1,39 @@
 ---
 layout: page
 title: "listen"
-date: 2013-02-23 20:22
-comments: true
-sharing: true
+comments: false
+sharing: false
 footer: true
 sidebar: false
 ---
+Each Imagination Vacation is an audio journey.  Here you can listen to some places along the way.
+     
+<div>
+    <div id="wrapper">
+     <p> 
+     <audio src="/images/honda.mp3" preload="none" id="audio-player"></audio>
+ </p>
 
-Each Imagination Vacation is an audio journey.
-Here you can listen to some places along the way.
+<b>Track 1: Floating on a River</b><br>
+<i>Starts with a fun movement sequence to help energetic kids make the transition to calm so they can relax…and maybe even nap!</i>
+      <ol>
+        <li><a href="javascript:playPause();" data-src="/images/honda.mp3">getting started</a></li>
+        <li><a href="#" data-src="/images/honda.mp3">along the way</a></li>
+        <li><a href="#" data-src="/images/honda.mp3">we’ve arrived</a></li>
 
-Floating on a River
+      </ol>
+      <b>Track 2: Twilight by the Lake</b><br>
 
-Starts with a fun movement sequence to help energetic kids make the transition to calm so they can relax…and maybe even nap!
+<i>Crickets chirping, water rippling, fireflies dancing…bed time help for those  “I can’t sleep!”  nights.</i>
+<ol>
+	  <li><a href="#" data-src="/images/honda.mp3">introduction</a></li>
+	  <li><a href="#" data-src="/images/honda.mp3">fireflies</a></li>
+	  <li><a href="#" data-src="/images/honda.mp3">the stars</a></li>
+</ol>
+    </div>
+   
+</div>
 
--getting started 
-{% audio /images/honda.mp3 %}
--along the way(mp3 sample)
--we’ve arrived  (mp3 sample)
-
-Twilight by the Lake
-
-Crickets chirping, water rippling, fireflies dancing…bed time help for those  “I can’t sleep!”  nights.
-
--introduction(mp3)
--fireflies(mp3)
--the stars(mp3)
 
 Imagination Vacations are designed for kids, but they work for adults, too.
 

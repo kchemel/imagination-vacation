@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "reviews"
-date: 2013-02-23 20:34
-comments: true
-sharing: true
+comments: false
+sharing: false
 footer: true
 sidebar: false
 ---
