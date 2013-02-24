@@ -15,7 +15,8 @@ Floating on a River
 
 Starts with a fun movement sequence to help energetic kids make the transition to calm so they can relax…and maybe even nap!
 
--getting started (mp3 sample)
+-getting started 
+{% audio /images/honda.mp3 %}
 -along the way(mp3 sample)
 -we’ve arrived  (mp3 sample)
 
