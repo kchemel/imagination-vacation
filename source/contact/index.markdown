@@ -6,5 +6,7 @@ sharing: false
 footer: true
 sidebar: false
 ---
-{% img /images/lakeTemp.jpg %}
-Questions? Comments?  Email jill@imaginationvacationguidedrelaxationforkids.com
+Questions? Comments?  Email [Jill](mailto:jill@imaginationvacationguidedrelaxationforkids.com).
+
+{% img /images/lakeTemp.jpg 300 300 %}
+
