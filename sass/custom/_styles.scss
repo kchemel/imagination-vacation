@@ -2,5 +2,30 @@
 // Add styles here to make changes without digging in too much
 
 html {
-	background: inline-image('ecailles.png') scroll center $page-bg;
+//	background: inline-image('ecailles.png') scroll center $page-bg;
+}
+
+body > header {
+  font-size: .7em;
+  hgroup {
+    text-align: center;
+    position: relative;
+    padding: .5em 0;
+    margin: 0 auto;
+  }
+  h1 {
+    text-shadow: rgba(#000, .8) 0 0 8px;
+    font-size: 6em;
+    line-height: .8em;
+    position: relative;
+    padding-bottom: .1em;
+    padding-top: .25em;
+    margin: 0;
+    a:hover { color: #80ABF3; }
+  }
+  h2 {
+    font-size: 3em;
+    position: relative; top: .2em;
+    padding-bottom: .25em;
+  }
 }

@@ -7,7 +7,7 @@ footer: true
 sidebar: false
 ---
 Each Imagination Vacation is an audio journey.  Here you can listen to some places along the way.
-     
+ 
 <div>
     <div id="wrapper">
      <p> 

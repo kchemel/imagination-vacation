@@ -9,4 +9,4 @@ sidebar: false
 {% img /images/ProductImage.jpg 200 200 'cd image front'%}
 {% img /images/ProductImageBack.jpg 200 200 'cd image back'%}
 <br>
-Purchase the CD through kunaki.com
+To purchase this CD, please [click here](http://google.com).
