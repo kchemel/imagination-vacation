@@ -14,3 +14,5 @@ sidebar: false
 To purchase this CD, please [click here](http://Kunaki.com/Sales.asp?PID=PX00Z8VCSI&PP=1).
  
 We hope you love Imagination Vacation and want all your friends and family to have it.  We do, too!  But please don't copy and give away this work. We'll be happy to send it!  Thank you.    Discounts for large orders available. 
+
+CD: Produced by Jill Jacobsen; Music written and produced by Inge Berge &copy; I. Berge/Zerosongs (ASCAP) Used by permission, all rights reserved; Written and narrated by Jill Jacobsen; Movement sequence: Ivana Ustariz; Design and Photography; Melanie Lloyd; &copy; Jill Jacobsen 2012
