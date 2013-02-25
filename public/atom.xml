@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Imagination Vacation]]></title>
+  <link href="http://imaginationvacation.com/atom.xml" rel="self"/>
+  <link href="http://imaginationvacation.com/"/>
+  <updated>2013-02-24T21:27:21-05:00</updated>
+  <id>http://imaginationvacation.com/</id>
+  <author>
+    <name><![CDATA[Jill Jacobsen]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
