@@ -6,34 +6,33 @@ sharing: false
 footer: true
 sidebar: false
 ---
-Each Imagination Vacation is an audio journey.  Here you can listen to some places along the way.
+Each Imagination Vacation CD contains two journeys, each about thirty minutes long.  Just one audio sample isn’t enough!
  
 <div>
-    <div id="wrapper">
-     <p> 
-     <audio src="/images/honda.mp3" preload="none" id="audio-player"></audio>
- </p>
+    
 
-<b>Track 1: Floating on a River</b><br>
-<i>Starts with a fun movement sequence to help energetic kids make the transition to calm so they can relax…and maybe even nap!</i>
+Track 1: Floating on a River<br>
+<p>Starts with a fun movement sequence to help wound-up kids make the transition to calm so they can de-stress and relax.</p>
       <ol>
-        <li><a href="javascript:playPause();" data-src="/images/honda.mp3">getting started</a></li>
-        <li><a href="#" data-src="/images/honda.mp3">along the way</a></li>
-        <li><a href="#" data-src="/images/honda.mp3">we’ve arrived</a></li>
-
+        <table>
+          <tr><td width="200"><li>getting started</td><td><audio src="test.mp3" preload="none"></audio></td></li></tr>
+          <tr><td width="200"><li>along the way</td><td><audio src="test.mp3" preload="none"></audio></td></li></tr>
+          <tr><td width="200"><li>we've arrived</td><td><audio src="test.mp3" preload="none"></audio></td></li></tr>
+        </table>
       </ol>
-      <b>Track 2: Twilight by the Lake</b><br>
 
-<i>Crickets chirping, water rippling, fireflies dancing…bed time help for those  “I can’t sleep!”  nights.</i>
-<ol>
-	  <li><a href="#" data-src="/images/honda.mp3">introduction</a></li>
-	  <li><a href="#" data-src="/images/honda.mp3">fireflies</a></li>
-	  <li><a href="#" data-src="/images/honda.mp3">the stars</a></li>
-</ol>
-    </div>
+Track 2: Twilight by the Lake<br>
+<p>Crickets chirping, water rippling, fireflies dancing…real bedtime help for those  “I can’t sleep!”  nights.</p>
+      <ol>
+        <table>
+          <tr><td width="200"><li>introduction</td><td><audio src="test.mp3" preload="none"></audio></td></li></tr>
+          <tr><td width="200"><li>fireflies</td><td><audio src="test.mp3" preload="none"></audio></td></li></tr>
+          <tr><td width="200"><li>the stars</td><td><audio src="test.mp3" preload="none"></audio></td></li></tr>
+        </table>
+      </ol>
    
 </div>
 
 
-Imagination Vacations are designed for kids, but they work for adults, too.
+Imagination Vacation is designed for kids, but it works for grown-ups, too!
 

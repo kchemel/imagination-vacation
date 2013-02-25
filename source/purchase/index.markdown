@@ -6,7 +6,11 @@ sharing: false
 footer: true
 sidebar: false
 ---
-{% img /images/ProductImage.jpg 200 200 'cd image front'%}
-{% img /images/ProductImageBack.jpg 200 200 'cd image back'%}
+<div>
+	<a href="/images/ProductImage.jpg" target="_blank"><img alt="cd image front" src="/images/ProductImage.jpg" width="200" height="200" ></a>
+	<a href="/images/ProductImageBack.jpg" target="_blank"><img alt="cd image front" src="/images/ProductImageBack.jpg" width="200" height="200" ></a>
 <br>
-To purchase this CD, please [click here](http://google.com).
+</div>
+To purchase this CD, please [click here](http://Kunaki.com/Sales.asp?PID=PX00Z8VCSI&PP=1).
+ 
+We hope you love Imagination Vacation and want all your friends and family to have it.  We do, too!  But please don't copy and give away this work. We'll be happy to send it!  Thank you.    Discounts for large orders available. 
