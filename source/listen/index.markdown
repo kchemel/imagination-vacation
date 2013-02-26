@@ -36,3 +36,5 @@ Track 2: Twilight by the Lake<br>
 
 Imagination Vacation is designed for kids, but it works for grown-ups, too!
 
+Produced by Jill Jacobsen; Music written and produced by Inge Berge &copy; I. Berge/Zerosongs (ASCAP) Used by permission, all rights reserved; Written and narrated by Jill Jacobsen; Movement sequence: Ivana Ustariz; Design and Photography; Melanie Lloyd; &copy; Jill Jacobsen 2012
+
