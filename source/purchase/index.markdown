@@ -5,6 +5,7 @@ comments: false
 sharing: false
 footer: true
 sidebar: false
+search: false
 ---
 <div>
 	<a href="/images/ProductImage.jpg" target="_blank"><img alt="cd image front" src="/images/ProductImage.jpg" width="200" height="200" ></a>
