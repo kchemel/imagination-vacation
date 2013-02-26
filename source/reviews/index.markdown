@@ -11,12 +11,12 @@ sidebar: false
 
 {% blockquote ML, mom %}“We tried everything to get her to sleep...therapy, melatonin, but the only thing that works is the CD.  She asks for it every night.” {% endblockquote %}
 
-“Even the older kids like it…it is really soothing” --IU, mom
+{% blockquote IU, mom %}“Even the older kids like it…it is really soothing” {% endblockquote %}
 
-“It’s fun.” --ZP, 11 yrs
+{% blockquote ZP, 11 yrs %} “It’s fun.” {% endblockquote %}
 
-“What a great idea. Kids need this!” --TWS, mom
+{% blockquote TWS, mom %} “What a great idea. Kids need this!” {% endblockquote %}
 
-“Beautifully done.” --MJ, mom
+{% blockquote MJ, mom %} “Beautifully done.” {% endblockquote %}
 
-"It's just wonderful!" --BP, mom
+{% blockquote BP, mom %} "It's just wonderful!" {% endblockquote %}
