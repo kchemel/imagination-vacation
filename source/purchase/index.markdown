@@ -13,10 +13,10 @@ search: false
 <br>
 <br>
 </div>
-To purchase single copies of this CD, please [click here](http://Kunaki.com/Sales.asp?PID=PX00Z8VCSI&PP=1).
+To order this CD, please [click here](http://Kunaki.com/Sales.asp?PID=PX00Z8VCSI&PP=1).
  
-We hope you love Imagination Vacation and want all your friends and family to have it.  We do, too!  But please don't copy and give away this work. We'll be happy to send it!  Thank you.    
+Discounts for large orders available. Please email [Jill@imaginationvacationguidedrelaxationforkids.com](mailto:jill@imaginationvacationguidedrelaxationforkids.com) for more information.
 
-Discounts for large orders available. Please email [Jill](mailto:jill@imaginationvacationguidedrelaxationforkids.com) for more information.
+<small>We hope you love Imagination Vacation and want all your friends and family to have it.  We do, too!  But please don't copy and give away this work. We'll be happy to send it!  Thank you.
 
-CD: Produced by Jill Jacobsen; Music written and produced by Inge Berge &copy; I. Berge/Zerosongs (ASCAP) Used by permission, all rights reserved; Written and narrated by Jill Jacobsen; Movement sequence: Ivana Ustariz; Design and Photography; Melanie Lloyd; &copy; Jill Jacobsen 2012
+CD: Produced by Jill Jacobsen; Music written and produced by Inge Berge &copy; I. Berge/Zerosongs (ASCAP) Used by permission, all rights reserved; Written and narrated by Jill Jacobsen; Movement sequence: Ivana Ustariz; Design and Photography; Melanie Lloyd; Web Site Design: Karen Chemel; &copy; Jill Jacobsen 2012 </small>
