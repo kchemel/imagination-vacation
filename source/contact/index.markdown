@@ -6,7 +6,7 @@ sharing: false
 footer: true
 sidebar: false
 ---
-Questions? Comments?  Email [Jill@imaginationvacationguidedrelaxationforkids.com](mailto:jill@imaginationvacationguidedrelaxationforkids.com).
+Questions? Comments?  Please contact [Jill@imaginationvacationguidedrelaxationforkids.com](mailto:jill@imaginationvacationguidedrelaxationforkids.com). <br> We'd love to hear from you.
 
 {% img /images/lakeTemp.jpg 300 300 %}
 
