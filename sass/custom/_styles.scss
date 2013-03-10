@@ -6,6 +6,12 @@
 /* import typography */
 @import "typography.scss";
 
+/*add image to banner bground*/
+
+header[role="banner"] {
+     background-image: url(/images/starBannerBG.jpg);
+     background-repeat: no-repeat;
+}
 
 html {
 //	background: inline-image('ecailles.png') scroll center $page-bg;
@@ -34,6 +40,19 @@ body > header {
     position: relative; top: .2em;
     padding-bottom: .25em;
   }
+}
+div.figure {
+  float: left;
+  //width: 30%;
+  //border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+div.figure p {
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
 }
 
 .credit {
