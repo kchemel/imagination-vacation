@@ -6,7 +6,7 @@ comments: false
 sharing: false
 search: false
 ---
-{% img right /images/lakeTemp.jpg 300 300 'image of lake'%}
+{% img right /images/iv_full.png 300 300 'image of lake'%}
 
 Help your kids relax and fall asleep.  Take them on an Imagination Vacation!  The beautiful, calming sounds of nature, gentle narration and a magical original score, lead listeners along an imaginative journey to a more peaceful place within. 
 

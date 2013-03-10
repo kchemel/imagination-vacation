@@ -4,12 +4,12 @@
 
 $title-color: #FFFFFF;
 $subtitle-color: #FFFFFF;
-$header-bg: #84A2F2;
+$header-bg: #BAC3E0;
 
-$nav-color: #F0F0F0;
+$nav-color: #FAFAFA;
 $nav-bg: #7D90CA;
 $nav-bg-front: image-url('noise.png');
-$nav-bg-back: linear-gradient(lighten($nav-bg, 6), lighten($nav-bg,3), $nav-bg);
+$nav-bg-back: linear-gradient(lighten($nav-bg, 6), lighten($nav-bg,3), darken($nav-bg,3));
 //$sidebar-bg: desaturate(#eceff5, 8);
 //$sidebar-link-color: saturate(#526f9a, 10);
 //$sidebar-link-color-hover: darken(#7ab662, 9);
@@ -18,10 +18,10 @@ $footer-bg: #7D90CA;
 $footer-bg-front: image-url('noise.png');
 $footer-bg-back: linear-gradient(lighten($footer-bg, 6), lighten($footer-bg,3), $footer-bg);
 
-$page-bg: #7D90CA;
-$main-bg: #FFFFFF;
+$page-bg: #BAC3E0;
+$main-bg: #FCFCFA;
 
-$text-color: #101010;
+$text-color: #303030;
 
 /* To use the light Solarized highlighting theme uncomment the following line */
 //$solarized: light;
