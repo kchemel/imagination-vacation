@@ -14,10 +14,6 @@ header[role="banner"] {
      background-repeat: no-repeat;
 }
 
-html {
-//	background: inline-image('ecailles.png') scroll center $page-bg;
-}
-
 body > header {
   font-size: .7em;
   hgroup {
@@ -28,7 +24,7 @@ body > header {
   }
   h1 {
     text-shadow: rgba(#000, 1) 0 0 12px;
-    font-size: 6em;
+    font-size: $header-font-size;
     line-height: .8em;
     position: relative;
     padding-bottom: .1em;
@@ -37,7 +33,7 @@ body > header {
     a:hover { color: #3D53BE; }
   }
   h2 {
-    font-size: 3em;
+    font-size: 2.5em;
     position: relative; top: .2em;
     padding-bottom: .25em;
   }
