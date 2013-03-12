@@ -8,5 +8,5 @@ sidebar: false
 ---
 Questions? Comments?  Please contact [Jill@imaginationvacationguidedrelaxationforkids.com](mailto:jill@imaginationvacationguidedrelaxationforkids.com). <br> We'd love to hear from you.
 
-{% img /images/iv_full_300.png 300 300 %}
+{% img /images/iv_title_300.png 300 300 %}
 
