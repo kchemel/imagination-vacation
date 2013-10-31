@@ -7,7 +7,7 @@ footer: true
 sidebar: false
 search: false
 ---
-To order this CD, please [click here](http://Kunaki.com/Sales.asp?PID=PX00Z8VCSI&PP=1).
+To order this CD or download, please [click here]( http://www.cdbaby.com/cd/jilljacobsen).
 <div>
 	<table>
 		<tbody>
